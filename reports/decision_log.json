@@ -1,0 +1,6002 @@
+[
+  {
+    "timestamp": "2024-01-06 05:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 05:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.329,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 23:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 23:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3525,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.352 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 05:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 05:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3363,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.336 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 15:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 15:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3278,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.328 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 10:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 10:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3514,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.351 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 08:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 08:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4141,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.414 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3338,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.334 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 13:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 13:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.345,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.345 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 09:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 09:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3234,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.323 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 13:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 13:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3122,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 13:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 13:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3345,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 19:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 19:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3628,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.363 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 04:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 04:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3152,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.315 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 18:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 18:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3116,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 11:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 11:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3665,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.366 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 07:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 07:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3602,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.360 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3262,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 15:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 15:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3137,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.314 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 01:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 01:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3405,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.341 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 18:20:00",
+    "subsystem": "COMM",
+    "severity": "WARNING",
+    "risk_score": 0.6,
+    "confidence": 0.88,
+    "recommended_action": "switch_to_redundancy",
+    "reasoning": "High bit error rate: 0.12060",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 18:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3991,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.399 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 05:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 05:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3334,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.333 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 14:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 14:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3158,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.316 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 21:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 21:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3164,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.316 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 05:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 05:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3202,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.320 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 13:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 13:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3626,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.363 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 17:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 17:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.389,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.389 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 02:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 02:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3232,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.323 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4609,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.461 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 06:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 06:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3347,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 16:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 16:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3425,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.343 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 19:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 19:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3565,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.356 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 08:45:00",
+    "subsystem": "COMM",
+    "severity": "WARNING",
+    "risk_score": 0.6,
+    "confidence": 0.88,
+    "recommended_action": "switch_to_redundancy",
+    "reasoning": "High bit error rate: 0.12060",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.0968,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "Ensemble risk=0.097 | conf=99% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 19:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 19:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3246,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.325 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 21:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 21:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3133,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.313 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 02:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 02:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.348,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.348 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 17:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 17:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3113,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.311 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 10:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 10:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3298,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.330 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 23:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 23:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3021,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.302 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-18 05:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-18 05:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3291,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 06:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 06:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3147,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.315 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 11:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 11:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3285,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 07:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 07:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3254,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.325 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 02:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 02:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3272,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.327 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 05:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 05:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3721,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.372 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 21:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 21:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3207,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.321 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 13:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 13:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3344,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.334 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 02:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 02:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3257,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 02:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 02:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3771,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.377 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 23:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 23:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3206,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.321 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 05:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 05:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3264,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 00:35:00",
+    "subsystem": "POWER",
+    "severity": "WARNING",
+    "risk_score": 0.7,
+    "confidence": 0.95,
+    "recommended_action": "reduce_power_mode",
+    "reasoning": "Battery low: 23.9%",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 00:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.448,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.448 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 01:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 01:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3311,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 12:15:00",
+    "subsystem": "COMM",
+    "severity": "WARNING",
+    "risk_score": 0.6,
+    "confidence": 0.88,
+    "recommended_action": "switch_to_redundancy",
+    "reasoning": "High bit error rate: 0.12060",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 12:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.424,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.424 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 21:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 21:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3347,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 23:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 23:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3368,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.337 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 16:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 16:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3522,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.352 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 19:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 19:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3247,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.325 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 14:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 14:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3686,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.369 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3481,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.348 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 22:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 22:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3597,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.360 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 06:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 06:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3781,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.378 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 06:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 06:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3402,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.340 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 18:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 18:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3511,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.351 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 09:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 09:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3238,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.324 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 01:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 01:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3275,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.328 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 03:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 03:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3323,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.332 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 14:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 14:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.345,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.345 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 16:35:00",
+    "subsystem": "POWER",
+    "severity": "WARNING",
+    "risk_score": 0.7,
+    "confidence": 0.95,
+    "recommended_action": "reduce_power_mode",
+    "reasoning": "Battery low: 23.9%",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 16:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4544,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.454 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 18:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 18:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3583,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.358 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 09:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 09:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3131,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.313 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3445,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.344 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 07:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 07:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4084,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.408 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 18:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 18:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.361,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.361 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4381,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.438 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 11:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 11:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3116,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 10:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 10:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3309,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3247,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.325 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3717,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.372 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 18:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 18:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3456,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.346 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3311,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 12:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 12:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3258,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3396,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.340 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 12:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 12:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3313,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 14:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 14:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4029,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.403 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 12:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 12:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3345,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 21:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 21:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3639,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.364 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 15:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 15:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3101,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.310 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3064,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.306 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 15:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 15:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3106,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.311 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3344,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.334 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 10:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 10:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3555,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.355 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 15:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 15:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3328,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.333 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 13:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 13:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3757,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.376 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 11:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 11:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3399,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.340 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3133,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.313 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 11:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 11:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3187,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.319 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 05:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 05:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3183,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.318 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 00:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 00:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3506,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.351 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 07:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 07:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3135,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.314 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.438,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.438 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 09:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 09:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3202,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.320 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 19:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 19:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3158,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.316 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 09:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 09:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3374,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.337 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 09:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 09:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.335,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 14:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 14:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3412,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.341 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 20:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 20:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4077,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.408 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 05:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 05:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3861,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.386 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 15:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 15:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3648,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.365 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 17:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 17:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3351,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 15:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 15:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.386,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.386 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 21:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 21:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3411,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.341 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 18:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 18:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3103,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.310 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 14:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 14:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3326,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.333 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 13:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 13:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3222,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 01:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 01:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3417,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.342 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 12:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 12:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3161,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.316 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 08:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 08:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3121,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 06:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 06:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3067,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.307 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 20:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 20:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4215,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.421 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 03:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 03:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3131,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.313 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 18:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 18:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3215,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 16:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 16:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3264,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 17:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 17:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.353,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.353 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 16:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 16:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.33,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.330 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 22:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 22:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3871,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.387 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 11:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 11:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3123,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 17:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 17:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3357,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.336 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 13:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 13:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3283,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.328 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 18:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 18:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4829,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.483 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 22:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 22:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.311,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.311 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 18:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 18:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3084,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.308 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 18:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 18:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3262,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 20:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 20:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3221,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 18:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 18:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.307,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.307 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 18:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 18:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3626,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.363 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 02:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 02:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3088,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.309 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 10:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 10:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3182,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.318 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 08:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 08:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4038,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.404 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3149,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.315 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4513,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.451 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 20:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 20:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3228,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.323 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 06:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 06:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3198,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.320 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 22:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 22:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3059,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.306 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 12:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 12:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3067,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.307 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 13:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 13:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3165,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 05:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 05:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3103,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.310 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 07:50:00",
+    "subsystem": "POWER",
+    "severity": "WARNING",
+    "risk_score": 0.7,
+    "confidence": 0.95,
+    "recommended_action": "reduce_power_mode",
+    "reasoning": "Battery low: 23.9%",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 07:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4438,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.444 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 10:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 10:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.325,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.325 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 00:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 00:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3218,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 22:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 22:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3318,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.332 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 22:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 22:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3089,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.309 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 13:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 13:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3487,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.349 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 05:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 05:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3242,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.324 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-18 00:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-18 00:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3421,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.342 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 11:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 11:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3266,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.327 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3264,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 01:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 01:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3866,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.387 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 21:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 21:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3259,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 17:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 17:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3285,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 12:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 12:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3404,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.340 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 07:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 07:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3292,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 21:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 21:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3076,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.308 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.32,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.320 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 22:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 22:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.349,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.349 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 12:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 12:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3536,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.354 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3514,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.351 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 15:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 15:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.343,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.343 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 12:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 12:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3328,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.333 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 10:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 10:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3152,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.315 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3173,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 20:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 20:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3597,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.360 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3578,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.358 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 08:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 08:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3511,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.351 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 13:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 13:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.322,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 15:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 15:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3311,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 10:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 10:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3467,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.347 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 03:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 03:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3561,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.356 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 03:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 03:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4349,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.435 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 23:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 23:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3723,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.372 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3226,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.323 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 01:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 01:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3175,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.318 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 00:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 00:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3172,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 17:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 17:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3257,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.447,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.447 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 17:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 17:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3285,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 09:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 09:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3434,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.343 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 19:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 19:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3027,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.303 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 17:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 17:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3453,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.345 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 20:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 20:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3479,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.348 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 13:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 13:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.362,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.362 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.317,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 04:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 04:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3286,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 16:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 16:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3153,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.315 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 04:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 04:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3402,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.340 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 00:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 00:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.322,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 19:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 19:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3065,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.306 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 21:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 21:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3084,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.308 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 17:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 17:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.402,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.402 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 07:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 07:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3088,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.309 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 05:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 05:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3039,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.304 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 12:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 12:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3233,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.323 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 15:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 15:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3624,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.362 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 14:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 14:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3033,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.303 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 00:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3732,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.373 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 10:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 10:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.335,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 14:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 14:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3249,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.325 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 04:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 04:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3171,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 21:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 21:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3108,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.311 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 19:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 19:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3286,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 03:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 03:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3118,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3124,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3199,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.320 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 16:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 16:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3279,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.328 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3263,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 03:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 03:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3509,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.351 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 05:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 05:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3456,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.346 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3157,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.316 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 02:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 02:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3456,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.346 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3267,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.327 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 13:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 13:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3137,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.314 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 17:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 17:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3156,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.316 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 13:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 13:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3263,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 21:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 21:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3274,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.327 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 08:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 08:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3227,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.323 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 15:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 15:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3183,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.318 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 21:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 21:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3366,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.337 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 08:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 08:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3291,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 09:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 09:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3288,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 00:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 00:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3891,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.389 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 02:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 02:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3363,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.336 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 06:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 06:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3599,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.360 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 02:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 02:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.335,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 08:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 08:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3124,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 16:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 16:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4099,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.410 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3716,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.372 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 09:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 09:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3304,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.330 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 05:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 05:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3191,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.319 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 09:35:00",
+    "subsystem": "COMM",
+    "severity": "WARNING",
+    "risk_score": 0.6,
+    "confidence": 0.88,
+    "recommended_action": "switch_to_redundancy",
+    "reasoning": "High bit error rate: 0.12060",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 09:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4162,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.416 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 13:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 13:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3315,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.332 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 21:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 21:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4088,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.409 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4228,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.423 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 04:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 04:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3174,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 05:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 05:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3144,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.314 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3517,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.352 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 14:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 14:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4259,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.426 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 08:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 08:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3212,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.321 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 13:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 13:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3993,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.399 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3054,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.305 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 04:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 04:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3881,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.388 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 08:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 08:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3471,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.347 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-17 07:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-17 07:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4185,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.418 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 07:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 07:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3307,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 17:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 17:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3047,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.305 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 03:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 03:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3216,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 21:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 21:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3375,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.338 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-04 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-04 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3126,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.313 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 05:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 05:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3308,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 00:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 00:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.341,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.341 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 11:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 11:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.335,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.335 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 04:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 04:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3253,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.325 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 12:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 12:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3633,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.363 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 17:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 17:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3125,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.312 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 16:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 16:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.322,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 13:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 13:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3259,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.326 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 03:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.324,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.324 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 00:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 00:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3232,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.323 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 14:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 14:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3332,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.333 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 23:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 23:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3165,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 01:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.327,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.327 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 12:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 12:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3546,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.355 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3173,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.317 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 09:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 09:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3315,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.332 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-18 01:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-18 01:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.4208,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.421 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-01 01:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-01 01:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.331,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.331 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 08:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3188,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.319 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 06:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 06:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3374,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.337 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 04:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 04:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3571,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.357 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-10 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-10 11:15:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3333,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.333 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-13 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-13 19:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3616,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.362 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 22:40:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 22:40:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3187,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.319 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 23:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 23:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3294,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.329 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-16 22:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-16 22:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3213,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.321 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 12:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 12:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3384,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.338 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 06:35:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3208,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.321 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-06 16:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-06 16:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.322,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.322 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-14 16:00:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-14 16:00:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3417,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.342 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 04:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 04:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3627,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.363 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-12 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-12 08:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.351,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.351 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-07 17:10:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-07 17:10:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3575,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.357 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 22:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3196,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.320 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-02 16:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-02 16:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3065,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.306 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 06:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 06:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3441,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.344 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 02:05:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 02:05:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3431,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.343 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 14:55:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3157,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.316 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-11 15:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-11 15:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3328,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.333 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-03 06:45:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-03 06:45:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3144,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.314 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-09 05:50:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-09 05:50:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3553,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.355 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-08 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-08 17:25:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.345,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.345 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-15 19:20:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-15 19:20:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3235,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.324 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  },
+  {
+    "timestamp": "2024-01-05 01:30:00",
+    "subsystem": "OVERALL",
+    "severity": "NOMINAL",
+    "risk_score": 0.02,
+    "confidence": 0.99,
+    "recommended_action": "no_action",
+    "reasoning": "All systems nominal",
+    "anomaly_detected": false
+  },
+  {
+    "timestamp": "2024-01-05 01:30:00",
+    "subsystem": "OVERALL",
+    "severity": "CAUTION",
+    "risk_score": 0.3337,
+    "confidence": 0.3,
+    "recommended_action": "alert_ground_station",
+    "reasoning": "Ensemble risk=0.334 | conf=30% | models=['isolation_forest', 'autoencoder']",
+    "anomaly_detected": true
+  }
+]
